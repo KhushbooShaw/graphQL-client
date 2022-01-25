@@ -2,6 +2,13 @@
   "name": "next-apollo",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+    "node": "14.16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KhushbooShaw/graphQL-client.git"
+  },
   "scripts": {
     "dev": "next",
     "test": "jest --watchAll --testPathIgnorePatterns cypress",
